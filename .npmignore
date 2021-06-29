@@ -1,0 +1,7 @@
+/bench
+/node_modules
+/tasks
+/test
+/coverage
+/.vscode
+.gitignore

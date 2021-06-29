@@ -1,0 +1,26 @@
+{
+  "cSpell.words": [
+    "Acyclicer",
+    "Brandes",
+    "DELIM",
+    "Eades",
+    "K",
+    "Köpf",
+    "Multigraph",
+    "Pettitt",
+    "Warshall",
+    "barycenters",
+    "chainable",
+    "eqls",
+    "gansner",
+    "graphlib",
+    "heapify",
+    "pf",
+    "postorder",
+    "preorder",
+    "seedrandom",
+    "sprintf",
+    "tarjan",
+    "topsort"
+  ]
+}
